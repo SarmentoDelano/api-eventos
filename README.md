@@ -107,7 +107,3 @@ A API realiza validações específicas para assegurar a integridade dos dados:
   - Capacidade deve ser um número positivo.
 
 ---
-
-Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habilidades com Django REST Framework, validação de dados e construção de APIs escaláveis.
-
----
